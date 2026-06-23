@@ -2,6 +2,15 @@
 
 AirClass is a Python, OpenCV, and MediaPipe application for touchless classroom and presentation control using webcam-based hand gestures. It detects hand landmarks in real time, renders a laptop-only classroom board UI, and keeps all demo behavior self-contained inside the app.
 
+## Demo Video
+
+The final AirClass demonstration video is available in the GitHub release below:
+
+[Watch the Team_San AirClass demo video](https://github.com/elburhan/airclass-mediapipe-smart-classroom/releases/tag/v1.0_demo)
+
+The video demonstrates the local MediaPipe-based classroom control system, including hand landmark detection, slide navigation, pointer mode, drawing mode, clear gesture, help overlay, and fullscreen classroom mode.
+
+
 ## Key Features
 
 - real-time hand landmark detection
